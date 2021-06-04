@@ -3,25 +3,25 @@ Path Finding Visualizer in Python using Pygame.
 
 Algorithms available :
 
-1)A* Search			
+      1)A* Search			
 
-2)Djikstras		
+      2)Djikstras		
 
-3)Breadth First Search		
-      
+      3)Breadth First Search		
+
 
 
 Use Guide :-
 
-  1)Run the visual.py file to run the application
-  
-  2)Use the left mouse button to set start and end points
-  
-  3)Press 'r' to create a random maze
-  
-  4)Press the appropriate button to start the algorithm visualization ( Refer to Key Mappings Section below)
-  
-  
+        1)Run the visual.py file to run the application
+
+        2)Use the left mouse button to set start and end points
+
+        3)Press 'r' to create a random maze
+
+        4)Press the appropriate button to start the algorithm visualization ( Refer to Key Mappings Section below)
+
+
  Key Mappings:-  
   
              Button		                                      Action
